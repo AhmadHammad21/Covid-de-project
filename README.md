@@ -7,7 +7,6 @@ This project was inspired from https://www.youtube.com/watch?v=gFWu-SSzRzc&list=
 data was taken from AWS covid data lake https://dj2taa9i652rf.cloudfront.net/
 
 
-
 Archeticure Diagram
 
 ![alt text](image.png)
